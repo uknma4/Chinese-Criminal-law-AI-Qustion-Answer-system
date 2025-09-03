@@ -5,7 +5,7 @@
 ![功能演示](./中国刑法人工智能问答系统
 /Criminal_ai_ask_answer_show.gif)
 ## 技术栈
-- Frontend: streamlit
+- Frontend: Streamlit
 - Backend: Ollama
 - Database: ES
 
