@@ -6,6 +6,6 @@
 /Criminal_ai_ask_answer_show.gif)
 ## 技术栈
 - Frontend: Streamlit
-- Backend: Ollama
+- Backend: Ollama, Deepseek-8b
 - Database: ES
 
